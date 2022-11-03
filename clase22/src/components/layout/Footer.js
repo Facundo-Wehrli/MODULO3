@@ -1,8 +1,8 @@
-const Header = (props) => {
+const Footer = (props) => {
     return (
      <footer>
-     este es el footer
+     Prod by "Facundo Wehrli"
      </footer>
     )
 }
-export default Header; 
+export default Footer; 
