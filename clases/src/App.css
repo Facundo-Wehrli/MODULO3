@@ -48,3 +48,10 @@ nav ul li a {
   max-width: 960px;
   margin: 0 auto 38px;
 }
+
+.mapa{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+  
+}

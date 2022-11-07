@@ -1,0 +1,4 @@
+dentro de la carpeta donde queremos inicializar el proyecto realizamos los sgtes pasos:
+
+1)npx create-react-app .
+npm i react-router-dom

@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "Juan",
+        "apellido": "Gomoez",
+        "edad": 24
+    },
+    {
+        "nombre": "Pablo",
+        "apellido": "Benitezz",
+        "edad": 55
+    },
+    {
+        "nombre": "Paco",
+        "apellido": "Gsafeas",
+        "edad": 66
+    },
+    {
+        "nombre": "Pedro",
+        "apellido": "Gonzalez",
+        "edad": 2
+    },
+    {
+        "nombre": "Ernesto",
+        "apellido": "Quiroga",
+        "edad": 261
+    },
+    {
+        "nombre": "Ramiro",
+        "apellido": "Zarate",
+        "edad": 984
+    },
+    {
+        "nombre": "Romualdo",
+        "apellido": "Benitez",
+        "edad": 0
+    }
+]
