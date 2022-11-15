@@ -1,6 +1,8 @@
 const GaleriaPage = (props) => {
     return (
-        <div>Hola soy la pagina de Galeria</div>
+        <main className="holder">
+        <h1>Pagina en construcción</h1>
+     </main>
     )
 }
 

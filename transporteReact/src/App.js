@@ -21,7 +21,7 @@ function App() {
       <BrowserRouter>
         <Nav />
         <Routes>
-          {/* FIXME se pinchó una rueda, llevar a arreglar    */}
+         
           <Route path="/" element={<Homepage />}></Route>
           <Route path="/nosotros" element={<NosotrosPage />}></Route>
           <Route path="/servicios" element={<ServiciosPage />}></Route>
