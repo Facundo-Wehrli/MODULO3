@@ -8,10 +8,10 @@ const Nav = (props) => {
         <nav>
         <ul className="holder">
             <li><Link to="/">Home</Link></li>
-            <li><Link to="/nosotros"></Link></li>
-            <li><Link to="/servicios"></Link></li>
-            <li><Link to="/galeria"></Link></li>
-            <li><Link to="/contacto"></Link></li>
+            <li><Link to="/nosotros">Nosotros</Link></li>
+            <li><Link to="/servicios">Servicios</Link></li>
+            <li><Link to="/galeria">Galeía</Link></li>
+            <li><Link to="/contacto">Contacto</Link></li>
         </ul>
     </nav>
     )
